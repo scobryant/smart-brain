@@ -1,2 +1,7 @@
-# smart-brain
-Face recognition project front-end for Complete Web Developer 2022 course on Zero to Mastery
+# SmartBrain - v3
+Final project for ZTM course
+
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
